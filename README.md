@@ -1,1 +1,1 @@
-# Industrial-programming-technologies-C-
+# Industrial-programming-technologies
